@@ -1,0 +1,42 @@
+[
+    {
+      "id": "1",
+      "date": "Mar 14(4day ago)",
+      "coverImg": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=996&t=st=1680193091~exp=1680193691~hmac=70545ca6141bc959dbcbd413671a0b4a0adb9d6df350cd2773785742b9d0a2ea",
+      "authorImg": "/public/player-3.png",
+      "age": 26,
+      "Title": "How to get your first job as a self-taught programmer",
+      "author_name": "Hooper Munoz",
+      "time":"05"
+    },
+    {
+      "id": "2",
+      "date": "Mar 15(5day ago)",
+      "coverImg": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010140.jpg?w=996&t=st=1680193167~exp=1680193767~hmac=0a58518adfee9f899f0ad41a68b3484db09d3ca25ac3717900e8ba6e1968c08b",
+      "authorImg": "/public/player-4.png",
+      "age": 24,
+      "Title": "How to get a job on abroad",
+      "author_name": "Scott Finley",
+      "time":"10"
+    },
+    {
+      "id": "3",
+      "date": "Mar 16(6day ago)",
+      "coverImg": "https://img.freepik.com/free-photo/coding-man_1098-18084.jpg?w=996&t=st=1680193210~exp=1680193810~hmac=ef7720f87d186814ba98911d208d3163874fde012e06ebc5236e71b50923d0e6",
+      "authorImg": "/public/player-5.png",
+      "age": 20,
+      "Title": "How to learn Python",
+      "author_name": "Francis Petersen",
+      "time":"12"
+    },
+    {
+      "id": "4",
+      "date": "Mar 17(7day ago)",
+      "coverImg": "https://img.freepik.com/free-photo/african-american-young-programmer-wearing-headphone-while-typing-security-codes-business-website-working-rmeote-from-home-employee-programming-software-application-software-screen_482257-28569.jpg?w=996&t=st=1680193362~exp=1680193962~hmac=b33b3a113790f0a0e9f34504e9a1786d6c08ff52148a3e44895675603e90f990",
+      "authorImg": "/public/player-3.png",
+      "age": 40,
+      "Title": "How to be a successful java programmer",
+      "author_name": "Josie Bryan",
+      "time":"16"
+    }
+  ]
